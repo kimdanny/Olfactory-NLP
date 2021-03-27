@@ -8,5 +8,7 @@
 Code and Paper co-authored by:  
 - To Eun Kim, Sabina-Maria Mitroi, Rakshita Kumar, Neha Ranade, Karunya Selvarantnam, and John Xu
 
+(CSV files are not included in ./Codes due to permission issues.)
+
 **Disclaimer**: Papers are submitted as part requriement for 'COMP0030: Research Methods' and 'COMP0031: Group Research Project' from the MEng degree in Computer Science at University College London (UCL). 
 Supervised by Professor Obrist, a professor of multisensory interfaces at UCL Interaction Centre ([UCLIC](https://uclic.ucl.ac.uk)).
