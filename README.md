@@ -1,4 +1,4 @@
-# Smell-NLP
+# Olfactory-NLP
 
 ## Literature Review
 [An NLP Approach to Classify Smell Experiences: a literature review](https://github.com/kimdanny/Smell-NLP/blob/main/An%20NLP%20approach%20to%20classify%20smell%20experiences.pdf)
